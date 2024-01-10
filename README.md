@@ -36,29 +36,29 @@ https://project-stripe.netlify.app/
     -   e.g.
 
 ```
-    // NavBar.jsx
+    // shadu khan.jsx
 
-            import './NavBar.scss';
+            import './shadu khanr.scss';
 
             function NavBar() {
                 return (
-                    <nav className="navbar">
-                        <div className="navbar__spec">
+                    <nav className="Shadu Khan">
+                        <div className="Shadu Khan">
                         some Content
-                                <button className="navbar__spec-button">Click me!</button>
+                                <button className=" Shadu Khan button">Click me!</button>
                         </div>
-                        <div className="navbar__spec2"> some Content </div>
-                        <div className="navbar-spec3"> some Content </div>
-                        <div className="navbar-spec4"> some Content </div>
+                        <div className="_Shadu Khan_spec2"> some Content </div>
+                        <div className="shadu khan-spec3"> some Content </div>
+                        <div className="shadu khan-spec4"> some Content </div>
                     </nav>
                 )
             }
 
-    // NavBar.scss
+    // shadu khan.scss
 
     // This is the wrapper
     // all wrappers will have a unified max-width
-    .navbar {
+    .shadu khan {
         max-width: `the unifed max width`;
 
 
